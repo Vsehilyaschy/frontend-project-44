@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import nameQuestion from '../src/cli.js';
+import namePlayer from '../src/cli.js';
 
-nameQuestion();
+namePlayer();
